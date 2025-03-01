@@ -1,4 +1,6 @@
 {
-    "MoreCompany":["notnotnotswipez-MoreCompany-1.11.0", "plugins"],
-    "LateCompany": ["anormaltwig-LateCompany-1.0.18", "plugins"]
+    "MoreCompany":["notnotnotswipez-MoreCompany-1.11.0", "BeipPlugins"],
+    "LateCompany": ["anormaltwig-LateCompany-1.0.18", "BeipPlugins"],
+    "ShipLoot" : ["tinyhoot-ShipLoot-1.1.0", "Plugins"],
+    "ReservedFlashlightSlot": ["FlipMods-ReservedFlashlightSlot-2.0.10", "dll"]
 }
